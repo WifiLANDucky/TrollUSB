@@ -2,7 +2,7 @@ DON'T CLICK ON THE SHORTCUTS. YOU WILL TROLL YOURSELF.
 
 What each shortcut does:
 
-[DVD RW Drive - Shortcut] = DVD Drive opens and closes even after restarting
+[DVD RW Drive - Shortcut] = DVD Drive opens and closes repeatedly even after restarting
 [Pictures] = Reverse shell that runs every 5 minutes
 [School] = regular folder
 [Writing Assignments] = Replaces\creates google chrome icon on desktop that hibernates the computer when opened
