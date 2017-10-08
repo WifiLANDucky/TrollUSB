@@ -21,4 +21,4 @@ All programs run in the background.
 
 Now drop your USB onto someone's desk, and when they open a folder, they'll get rekt.
 
-v1.1 adds an external reverse shell option.
+v1.1 adds an external reverse shell option, and hides the folder "System", containing all the files on the C: drive.
